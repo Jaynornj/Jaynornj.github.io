@@ -5,7 +5,7 @@ subtitle: From Coding My Own Cheating Techniques for Video Games to Pursuing a C
 ---
 Hey there!! 
 
-My name is Jay Neiva 
+My name is Jay Neiva. 
 
 ### My story
 
