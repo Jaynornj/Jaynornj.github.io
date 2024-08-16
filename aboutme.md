@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: From Coding My Own Cheating Techniques for Video Games to Pursuing a Computer Science Degree
 ---
+Hey there!! 
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Jay Neiva 
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm a student pursuing a Computer Science degree, and I love getting my hands dirty with projects in C and Go. Currently, I'm also working on earning my OSCP certification—fingers crossed! I've got a real thing for Linux-Windows forensics, and if you know me, you'll know I'm absolutely hooked on Hack The Box **(seriously, it's an addiction)**.
+
+On the side, I’m big on giving back to the tech community. I've volunteered at cool events like BSides Jax, ShellHacks Miami, and Hack Space Con, and it’s been an awesome experience.
+
+Oh, and just so we're clear—everything I share here is totally my own opinion and doesn’t represent the views of my employer. So, enjoy the ride!
