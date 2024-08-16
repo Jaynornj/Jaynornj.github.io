@@ -51,7 +51,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This blog just represents my opinion. Do not represent my employer's view or my Instutation standards. 
+rss-description: This blog just represents my opinion. Do not represent my employers view or my Instutation standards. 
 It is full of memes, good jokes and sometimes good hacking tips. 
 
 ###########################
